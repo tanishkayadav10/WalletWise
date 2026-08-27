@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224563232394",
+    "project_id": "walletwise-83312",
+    "storage_bucket": "walletwise-83312.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224563232394:android:9df2e4e4d293379a983773",
+        "android_client_info": {
+          "package_name": "com.example.walletwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwGWWughcrtR-CLQfLSkSm5Nxw_3sNfoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
